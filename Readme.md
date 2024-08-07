@@ -30,13 +30,21 @@
 ### 📦 Установка
 
 # Клонируйте репозиторий
+```bash
 git clone https://github.com/yourusername/ESG-Search.git
+```
 
 # Перейдите в директорию проекта
+```bash
 cd ESG-Search
+```
 
 # Установите зависимости
-pip install -r requirements.txt
+```bash
+    pip install -r requirements.txt
+```
 
 # Запустите бота
+```bash
 python bot.py
+```
