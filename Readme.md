@@ -1,50 +1,50 @@
 # 🌟 ESG-Search
 
-### Введение в продукт
+**Introduction to the Product**
 
-🌱 **ESG-search** - это инновационный аналитический телеграм-бот, предназначенный для анализа общественных настроений в городе **Свободный** и в отношении компании **Сибур** на основе данных из социальных сетей ВКонтакте и видеоплатформы YouTube. Проект связан с исследованием важной тематики **ESG**, акцентируя внимание на социальной ответственности и общественном мнении.
-
----
-
-### 📋 Функционал
-
-🔍 **ESG-search** предоставляет следующие возможности:
-
-- 📲 **Интерактивные запросы**: Пользователи могут взаимодействовать с ботом, отправляя ему запросы в виде слов или фраз.
-- 📊 **Анализ упоминаний**: Бот анализирует запросы и возвращает среднестатистическую оценку упоминаний в комментариях из ВК и видео на YouTube.
-- 📈 **Аналитические графики**: Предоставляет аналитические графики, показывающие корреляцию между количеством лайков/комментариев и общей оценкой настроений.
+🌱 ESG-search is an innovative analytical Telegram bot designed to analyze public sentiment in the city of Svobodny and towards the company Sibur based on data from social networks VKontakte and the video platform YouTube. The project is related to the study of the important ESG topic, focusing on social responsibility and public opinion.
 
 ---
 
-### 🛠️ Технологии
+**📋 Features**
 
-**ESG-search** использует современные технологии:
+🔍 ESG-search offers the following features:
 
-- 🤖 **Алгоритмы машинного обучения** для анализа текстов и определения настроений.
-- 🌐 **Парсинг данных** из социальных сетей и видеоплатформ с использованием API и инструментов веб-скрапинга.
-- 🗣️ **Продвинутые методы обработки естественного языка** (Natural Language Processing, NLP) для эффективного разбора и интерпретации данных.
-- 📱 **Разработка удобного и интуитивно понятного пользовательского интерфейса** в Telegram.
+- 📲 Interactive Requests: Users can interact with the bot by sending it queries in the form of words or phrases.
+- 📊 Mentions Analysis: The bot analyzes the queries and returns the average rating of mentions in comments from VK and videos on YouTube.
+- 📈 Analytical Charts: Provides analytical charts showing the correlation between the number of likes/comments and the overall sentiment rating.
 
 ---
 
-### 📦 Установка
+**🛠 Technologies**
 
-# Клонируйте репозиторий
+ESG-search uses modern technologies:
+
+- 🤖 Machine learning algorithms for text analysis and sentiment determination.
+- 🌐 Data parsing from social networks and video platforms using APIs and web scraping tools.
+- 🗣 Advanced Natural Language Processing (NLP) methods for efficient data parsing and interpretation.
+- 📱 Development of a user-friendly and intuitive interface in Telegram.
+
+---
+
+**📦 Installation**
+
+# Clone the repository
 ```bash
 git clone https://github.com/yourusername/ESG-Search.git
 ```
 
-# Перейдите в директорию проекта
+# Navigate to the project directory
 ```bash
 cd ESG-Search
 ```
 
-# Установите зависимости
+# Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-# Запустите бота
+# Run the bot
 ```bash
 python bot.py
 ```
